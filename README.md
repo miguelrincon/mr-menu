@@ -47,3 +47,7 @@ We use karma and jasmine to run the tests.
 
 npm might not work if downloaded in China, try [https://github.com/cnpm/cnpm](cnpm) 
 project to run the `install` portion of this steps.
+
+### Acknowledgments
+
+[https://github.com/angular/angular-seed](Angular Seed) was used as template some builerplate code.

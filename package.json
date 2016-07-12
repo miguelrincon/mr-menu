@@ -1,5 +1,6 @@
 {
   "name": "mr-menu",
+  "repository": "https://github.com/miguelrincon/mr-menu",
   "version": "0.0.1",
   "description": "mr-menu tags show a accordion style menu easily",
   "license": "MIT",
