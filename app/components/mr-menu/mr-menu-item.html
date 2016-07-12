@@ -1,0 +1,30 @@
+<div>
+  <hr/>
+  <a href class="show-more pull-right" ng-click="showMore(item)">
+    More
+    <i class="glyphicon glyphicon-chevron-right"></i>
+  </a>
+
+  <p class="lead">
+    <strong class="make-code">{{item.MakeCode}}</strong> 
+    <span class="description">{{item.Description}}</span> 
+  </p>
+
+  <small class="description2">{{item.Description2}}</small>
+  
+  <h4>Attributes</h4>
+  <ul class="list-unstyled">
+    <li>
+      <i class="glyphicon" ng-class="item.Blocked ? 'glyphicon-check' : 'glyphicon-unchecked'"></i>
+      Blocked
+    </li>
+    <li>
+      <i class="glyphicon" ng-class="item.NoCharge ? 'glyphicon-check' : 'glyphicon-unchecked'"></i>
+      No charged
+    </li>
+    <li>
+      <i class="glyphicon" ng-class="item.WarrantyPackage ? 'glyphicon-check' : 'glyphicon-unchecked'"></i>
+      Warrany Package
+    </li>
+  </ul>
+</div>

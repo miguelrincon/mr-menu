@@ -1,0 +1,10 @@
+<ul class="list-group">
+  <div class="list-group-item" ng-repeat="(i, item) in data" ng-class="{active : index == i}" ng-click="selectItem(i)">
+    <h4 href class="list-group-item-heading" >
+      {{item.No}}
+    </h4>
+    <div class="list-group-item-text" ng-show="index == i">
+      <mr-menu-item item="item" shown="shown"></mr-menu-item>
+    </div>    
+  </div>
+</ul>

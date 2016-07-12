@@ -1,0 +1,39 @@
+<mr-menu data="sampleData" shown="shown"></mr-menu>
+
+<hr>
+
+<p>
+  {{shown.length}} item(s) shown. 
+  <a href ng-show="shown.length" ng-click="clear()">Clear</a>
+  <strong ng-hide="shown.length">Click `More` in one of the items!</strong></a>
+</p>
+<div class="row" ng-repeat="item in shown track by $index">
+  <div class="col-sm-6">
+    <strong>{{item.MakeCode}}</strong> {{item.Description}} 
+  </div>
+  <div class="col-sm-6">
+    <ul class="list-unstyled small">
+      <li ng-repeat="version in item.VersionList">
+        {{version.Description || '- no description -'}}
+      </li>
+    </ul>
+  </div>
+</div>
+<p ng-if="shown.length">
+  {{shown.length}} item(s) shown. <a href ng-show="shown.length" ng-click="clear()">Clear</a>
+</p>
+
+<hr>
+<p>
+  Here <code>mrMenu</code> integrates with the scope of the view. To show the items that have been clicked in More.
+</p>
+<p>
+  This list is displayed, with data obtained from 
+  <code><a href="data/sample.json" target="_blank">data/sample.json</a></code>
+  separately from this page.
+<p>
+  The reusable code:
+</p>
+<pre>
+&lt;mr-menu data=&quot;sampleData&quot; shown=&quot;shown&quot;&gt;&lt;/mr-menu&gt;
+</pre>

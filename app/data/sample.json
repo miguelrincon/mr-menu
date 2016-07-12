@@ -1,0 +1,582 @@
+[
+  {
+    "MakeCode": "BMW",
+    "No": "BSI",
+    "Description": "BSI Package",
+    "Description2": "",
+    "WarrantyPackage": false,
+    "NoCharge": false,
+    "Blocked": false,
+    "VersionList": [
+      {
+        "Description": "BSI Type A - 30.000 km, 12M",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "BSI",
+        "PackageVersion": 10000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "BSI Type A - 60.000 km, 24M",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "BSI",
+        "PackageVersion": 20000,
+        "BOMList": [
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "BSI",
+            "Version": 20000,
+            "Description": "Replace Air Manometer",
+            "Description2": "",
+            "LineNo": 10000,
+            "Type": 3,
+            "No": "7140022",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "BSI",
+            "Version": 20000,
+            "Description": "Clamp",
+            "Description2": "A12",
+            "LineNo": 20000,
+            "Type": 2,
+            "No": "07129934925",
+            "Quantity": 2,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "BSI",
+            "Version": 20000,
+            "Description": "Tow hitch",
+            "Description2": "",
+            "LineNo": 30000,
+            "Type": 2,
+            "No": "86190136993",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "BSI",
+            "Version": 20000,
+            "Description": "Air Cleaner",
+            "Description2": "",
+            "LineNo": 40000,
+            "Type": 2,
+            "No": "13721247404",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "BSI",
+            "Version": 20000,
+            "Description": "Brake Disc",
+            "Description2": "260X22",
+            "LineNo": 50000,
+            "Type": 2,
+            "No": "34111160915",
+            "Quantity": 2,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          }
+        ],
+        "FixedPrice": null
+      },
+      {
+        "Description": "BSI Type A - 90.000 km, 36 M",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "BSI",
+        "PackageVersion": 30000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "BSI Type A - 120.000 km, 4Y",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "BSI",
+        "PackageVersion": 40000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "BSI Type A - 150.000 km, 5Y",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "BSI",
+        "PackageVersion": 50000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "BSI Type A - 180.000 km, 6Y",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "BSI",
+        "PackageVersion": 60000,
+        "BOMList": [],
+        "FixedPrice": null
+      }
+    ]
+  },
+  {
+    "MakeCode": "BMW",
+    "No": "FRONT BRAKES",
+    "Description": "Front Brakes Packages for BMW 3 (2008-2011)",
+    "Description2": "",
+    "WarrantyPackage": false,
+    "NoCharge": false,
+    "Blocked": false,
+    "VersionList": [
+      {
+        "Description": "Front Brakes - complet with BS",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "FRONT BRAKES",
+        "PackageVersion": 10000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "Front Brakes - complet without BS",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "FRONT BRAKES",
+        "PackageVersion": 15000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "Front Brakes Pads",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "FRONT BRAKES",
+        "PackageVersion": 20000,
+        "BOMList": [
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "FRONT BRAKES",
+            "Version": 20000,
+            "Description": "Brake Pad",
+            "Description2": "",
+            "LineNo": 10000,
+            "Type": 2,
+            "No": "34112282415",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "FRONT BRAKES",
+            "Version": 20000,
+            "Description": "Service, front brakes",
+            "Description2": "",
+            "LineNo": 20000,
+            "Type": 3,
+            "No": "0000112",
+            "Quantity": 14,
+            "UOM": "LU",
+            "UnitPrice": 0
+          }
+        ],
+        "FixedPrice": null
+      },
+      {
+        "Description": "Front Brakes Disc ",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "FRONT BRAKES",
+        "PackageVersion": 30000,
+        "BOMList": [],
+        "FixedPrice": null
+      }
+    ]
+  },
+  {
+    "MakeCode": "BMW",
+    "No": "SEASON CHECK",
+    "Description": "Season check BMW",
+    "Description2": "",
+    "WarrantyPackage": false,
+    "NoCharge": false,
+    "Blocked": false,
+    "VersionList": [
+      {
+        "Description": "Winter Check ",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SEASON CHECK",
+        "PackageVersion": 10000,
+        "BOMList": [
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SEASON CHECK",
+            "Version": 10000,
+            "Description": "Engine oil service",
+            "Description2": "",
+            "LineNo": 10000,
+            "Type": 3,
+            "No": "0000610",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SEASON CHECK",
+            "Version": 10000,
+            "Description": "Oil filter",
+            "Description2": "",
+            "LineNo": 20000,
+            "Type": 2,
+            "No": "11421318931",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SEASON CHECK",
+            "Version": 10000,
+            "Description": "Air Cleaner",
+            "Description2": "",
+            "LineNo": 30000,
+            "Type": 2,
+            "No": "13721247404",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SEASON CHECK",
+            "Version": 10000,
+            "Description": "Oil Mobilix 5W40",
+            "Description2": "",
+            "LineNo": 40000,
+            "Type": 2,
+            "No": "1988799",
+            "Quantity": 6,
+            "UOM": "LTR",
+            "UnitPrice": 0
+          }
+        ],
+        "FixedPrice": null
+      },
+      {
+        "Description": "Summer Check",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SEASON CHECK",
+        "PackageVersion": 20000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "LHD - summer check ",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SEASON CHECK",
+        "PackageVersion": 30000,
+        "BOMList": [],
+        "FixedPrice": null
+      },
+      {
+        "Description": "RHD - winter check",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SEASON CHECK",
+        "PackageVersion": 40000,
+        "BOMList": [],
+        "FixedPrice": null
+      }
+    ]
+  },
+  {
+    "MakeCode": "BMW",
+    "No": "SP0001",
+    "Description": "Install Towing Hitch",
+    "Description2": "",
+    "WarrantyPackage": false,
+    "NoCharge": false,
+    "Blocked": false,
+    "VersionList": [
+      {
+        "Description": "3-7 Series",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SP0001",
+        "PackageVersion": 20000,
+        "BOMList": [
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0001",
+            "Version": 20000,
+            "Description": "Installing trailer hitch",
+            "Description2": "complete with electrics",
+            "LineNo": 10000,
+            "Type": 3,
+            "No": "7160010",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0001",
+            "Version": 20000,
+            "Description": "Tow hitch",
+            "Description2": "",
+            "LineNo": 20000,
+            "Type": 2,
+            "No": "86190136993",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          }
+        ],
+        "FixedPrice": null
+      },
+      {
+        "Description": "6 Series",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SP0001",
+        "PackageVersion": 30000,
+        "BOMList": [],
+        "FixedPrice": null
+      }
+    ]
+  },
+  {
+    "MakeCode": "BMW",
+    "No": "SP0002",
+    "Description": "Disturbance air manometer replacement - Service CP",
+    "Description2": "",
+    "WarrantyPackage": true,
+    "NoCharge": false,
+    "Blocked": false,
+    "VersionList": [
+      {
+        "Description": "",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SP0002",
+        "PackageVersion": 10000,
+        "BOMList": [
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0002",
+            "Version": 10000,
+            "Description": "Replace Air Manometer",
+            "Description2": "",
+            "LineNo": 10000,
+            "Type": 3,
+            "No": "7140022",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0002",
+            "Version": 10000,
+            "Description": "Control Unit",
+            "Description2": "",
+            "LineNo": 20000,
+            "Type": 2,
+            "No": "13617789553",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0002",
+            "Version": 10000,
+            "Description": "Clamp",
+            "Description2": "A12",
+            "LineNo": 30000,
+            "Type": 2,
+            "No": "07129934925",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 0
+          }
+        ],
+        "FixedPrice": null
+      }
+    ]
+  },
+  {
+    "MakeCode": "BMW",
+    "No": "SP0003",
+    "Description": "Create Dealer Package",
+    "Description2": "",
+    "WarrantyPackage": false,
+    "NoCharge": false,
+    "Blocked": false,
+    "VersionList": [
+      {
+        "Description": "Create Dealer Package",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SP0003",
+        "PackageVersion": 10000,
+        "BOMList": [
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0003",
+            "Version": 10000,
+            "Description": "Bulb",
+            "Description2": "",
+            "LineNo": 10000,
+            "Type": 2,
+            "No": "07119900673",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 108
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0003",
+            "Version": 10000,
+            "Description": "Hex Nut",
+            "Description2": "",
+            "LineNo": 20000,
+            "Type": 2,
+            "No": "07129901656",
+            "Quantity": 1,
+            "UOM": "PCS",
+            "UnitPrice": 1
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0003",
+            "Version": 10000,
+            "Description": "Engine oil service",
+            "Description2": "",
+            "LineNo": 30000,
+            "Type": 3,
+            "No": "0000610",
+            "Quantity": 12,
+            "UOM": "LU",
+            "UnitPrice": 5
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0003",
+            "Version": 10000,
+            "Description": "Used car preparation optical big car",
+            "Description2": "",
+            "LineNo": 40000,
+            "Type": 4,
+            "No": "SEXT0002",
+            "Quantity": 1,
+            "UOM": "HOUR",
+            "UnitPrice": 400
+          }
+        ],
+        "FixedPrice": null
+      }
+    ]
+  },
+  {
+    "MakeCode": "BMW",
+    "No": "SP0007",
+    "Description": "Create Dealer Package",
+    "Description2": "",
+    "WarrantyPackage": false,
+    "NoCharge": false,
+    "Blocked": false,
+    "VersionList": [
+      {
+        "Description": "Create Dealer Package",
+        "Description2": "",
+        "MakeCode": "BMW",
+        "PackageNo": "SP0007",
+        "PackageVersion": 10000,
+        "BOMList": [
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0007",
+            "Version": 10000,
+            "Description": "Replace Air Manometer",
+            "Description2": "",
+            "LineNo": 10000,
+            "Type": 3,
+            "No": "7140022",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 4
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0007",
+            "Version": 10000,
+            "Description": "Replace Air Manometer",
+            "Description2": "",
+            "LineNo": 20000,
+            "Type": 3,
+            "No": "7140022",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 4
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0007",
+            "Version": 10000,
+            "Description": "Replace Air Manometer",
+            "Description2": "",
+            "LineNo": 30000,
+            "Type": 3,
+            "No": "7140022",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 4
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0007",
+            "Version": 10000,
+            "Description": "Replace Air Manometer",
+            "Description2": "",
+            "LineNo": 40000,
+            "Type": 3,
+            "No": "7140022",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 4
+          },
+          {
+            "MakeCode": "BMW",
+            "PackageNo": "SP0007",
+            "Version": 10000,
+            "Description": "Replace Air Manometer",
+            "Description2": "",
+            "LineNo": 50000,
+            "Type": 3,
+            "No": "7140022",
+            "Quantity": 0,
+            "UOM": "LU",
+            "UnitPrice": 4
+          }
+        ],
+        "FixedPrice": null
+      }
+    ]
+  }
+]
